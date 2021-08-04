@@ -1,0 +1,268 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-08-02T12:16:35.654Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2505000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.orangeSteps.before()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "To do data driven Testing on Login Functionality",
+        "description": "",
+        "id": "login-function;to-do-data-driven-testing-on-login-functionality;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 2832000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.orangeSteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3516000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Browser is Opened with Login Page",
+            "match": {
+              "location": "stepDefinition.orangeSteps.browser_is_opened_with_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1289000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enters \"admin\", \"admin123\" \u0026 click on login button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"admin123\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinition.orangeSteps.user_enters_click_on_login_button(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Login \"\u003cLoginType\u003e\" be happen",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cLoginType\u003e\"",
+                  "offset": 6
+                }
+              ],
+              "location": "stepDefinition.orangeSteps.login_should_happen(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-08-02T12:16:45.907Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1449000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.orangeSteps.before()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "To do data driven Testing on Login Functionality",
+        "description": "",
+        "id": "login-function;to-do-data-driven-testing-on-login-functionality;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 2736000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.orangeSteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3224000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Browser is Opened with Login Page",
+            "match": {
+              "location": "stepDefinition.orangeSteps.browser_is_opened_with_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1330000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enters \"hr\", \"hr123\" \u0026 click on login button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"hr\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hr123\"",
+                  "offset": 18
+                }
+              ],
+              "location": "stepDefinition.orangeSteps.user_enters_click_on_login_button(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Login \"\u003cLoginType\u003e\" be happen",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cLoginType\u003e\"",
+                  "offset": 6
+                }
+              ],
+              "location": "stepDefinition.orangeSteps.login_should_happen(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-08-02T12:16:54.668Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1528000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.orangeSteps.before()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To do data driven Testing on Login Functionality",
+        "description": "",
+        "id": "login-function;to-do-data-driven-testing-on-login-functionality;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 2881000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.orangeSteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3160000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Browser is Opened with Login Page",
+            "match": {
+              "location": "stepDefinition.orangeSteps.browser_is_opened_with_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1376000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enters \"demo\", \"passWord\" \u0026 click on login button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"demo\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"passWord\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinition.orangeSteps.user_enters_click_on_login_button(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 48000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Login \"\u003cLoginType\u003e\" be happen",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cLoginType\u003e\"",
+                  "offset": 6
+                }
+              ],
+              "location": "stepDefinition.orangeSteps.login_should_happen(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Function",
+    "description": "",
+    "id": "login-function",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/orangeHrm.feature",
+    "tags": []
+  }
+]

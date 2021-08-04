@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10656" started-at="2021-07-30T16:31:03 IST" finished-at="2021-07-30T16:31:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10656" started-at="2021-07-30T16:31:03 IST" finished-at="2021-07-30T16:31:14 IST">
+      <class name="day6.ExcelKeyRunner">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="beforeTest" is-config="true" duration-ms="3890" started-at="2021-07-30T16:31:03 IST" finished-at="2021-07-30T16:31:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="runKeyTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="runKeyTest" duration-ms="3131" started-at="2021-07-30T16:31:08 IST" data-provider="dp" finished-at="2021-07-30T16:31:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[getURL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://blazedemo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKeyTest -->
+        <test-method status="PASS" signature="runKeyTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="runKeyTest" duration-ms="278" started-at="2021-07-30T16:31:11 IST" data-provider="dp" finished-at="2021-07-30T16:31:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selectFromDropDown]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[XPAth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@name='fromPort']]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Boston]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKeyTest -->
+        <test-method status="PASS" signature="runKeyTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="runKeyTest" duration-ms="151" started-at="2021-07-30T16:31:11 IST" data-provider="dp" finished-at="2021-07-30T16:31:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selectFromDropDown]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xpath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@name='toPort']]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKeyTest -->
+        <test-method status="PASS" signature="runKeyTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="runKeyTest" duration-ms="782" started-at="2021-07-30T16:31:11 IST" data-provider="dp" finished-at="2021-07-30T16:31:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xpath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//input[@value='Find Flights']]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKeyTest -->
+        <test-method status="PASS" signature="runKeyTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="runKeyTest" duration-ms="704" started-at="2021-07-30T16:31:12 IST" data-provider="dp" finished-at="2021-07-30T16:31:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[getSnap]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[XPATH]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[.//flights.png]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKeyTest -->
+        <test-method status="PASS" signature="runKeyTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="runKeyTest" duration-ms="3" started-at="2021-07-30T16:31:13 IST" data-provider="dp" finished-at="2021-07-30T16:31:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[closeBrowser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[na]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKeyTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day6.ExcelKeyRunner@c46bcd4]" name="afterTest" is-config="true" duration-ms="825" started-at="2021-07-30T16:31:13 IST" finished-at="2021-07-30T16:31:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- day6.ExcelKeyRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
